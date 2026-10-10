@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+outputs/
+checkpoints/
+pretrained_weights/
+models_smplx*/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.npy
+*.pkl
+*.mp4
+*.wav
